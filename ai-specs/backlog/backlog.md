@@ -1,5 +1,18 @@
 # Product Backlog: LTI — Next-Generation Applicant Tracking System
 
+## Sync Status
+
+- **Platform**: GitHub
+- **Last Synced**: 2026-04-21
+- **Repository**: [rchamycruz/Ai4Devs-design2-2026-03-Senior](https://github.com/rchamycruz/Ai4Devs-design2-2026-03-Senior)
+- **Project Board**: [LTI ATS Backlog](https://github.com/users/rchamy/projects/2)
+- **Milestones**: [MVP - Release 1.0](https://github.com/rchamycruz/Ai4Devs-design2-2026-03-Senior/milestone/1) · [Release 1.5](https://github.com/rchamycruz/Ai4Devs-design2-2026-03-Senior/milestone/2)
+- **Epics Created**: 9 — [#1](https://github.com/rchamycruz/Ai4Devs-design2-2026-03-Senior/issues/1) [#2](https://github.com/rchamycruz/Ai4Devs-design2-2026-03-Senior/issues/2) [#3](https://github.com/rchamycruz/Ai4Devs-design2-2026-03-Senior/issues/3) [#4](https://github.com/rchamycruz/Ai4Devs-design2-2026-03-Senior/issues/4) [#5](https://github.com/rchamycruz/Ai4Devs-design2-2026-03-Senior/issues/5) [#6](https://github.com/rchamycruz/Ai4Devs-design2-2026-03-Senior/issues/6) [#7](https://github.com/rchamycruz/Ai4Devs-design2-2026-03-Senior/issues/7) [#8](https://github.com/rchamycruz/Ai4Devs-design2-2026-03-Senior/issues/8) [#9](https://github.com/rchamycruz/Ai4Devs-design2-2026-03-Senior/issues/9)
+- **Stories Created**: 12 — [#10](https://github.com/rchamycruz/Ai4Devs-design2-2026-03-Senior/issues/10) [#11](https://github.com/rchamycruz/Ai4Devs-design2-2026-03-Senior/issues/11) [#12](https://github.com/rchamycruz/Ai4Devs-design2-2026-03-Senior/issues/12) [#13](https://github.com/rchamycruz/Ai4Devs-design2-2026-03-Senior/issues/13) [#14](https://github.com/rchamycruz/Ai4Devs-design2-2026-03-Senior/issues/14) [#15](https://github.com/rchamycruz/Ai4Devs-design2-2026-03-Senior/issues/15) [#16](https://github.com/rchamycruz/Ai4Devs-design2-2026-03-Senior/issues/16) [#17](https://github.com/rchamycruz/Ai4Devs-design2-2026-03-Senior/issues/17) [#18](https://github.com/rchamycruz/Ai4Devs-design2-2026-03-Senior/issues/18) [#19](https://github.com/rchamycruz/Ai4Devs-design2-2026-03-Senior/issues/19) [#20](https://github.com/rchamycruz/Ai4Devs-design2-2026-03-Senior/issues/20) [#21](https://github.com/rchamycruz/Ai4Devs-design2-2026-03-Senior/issues/21)
+- **Stories Pending**: 0
+
+---
+
 ## Metadata
 
 - **Source PRD**: `ai-specs/specs/PRD.md`
