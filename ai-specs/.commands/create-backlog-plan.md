@@ -20,7 +20,13 @@ Generate a comprehensive, prioritized product backlog from a PRD document. The b
    - If `$ARGUMENTS` is empty, read `ai-specs/specs/PRD.md` as the default PRD source.
    - If the PRD file does not exist, stop and inform the user that a PRD is required first (suggest using the `/create-prd` command).
 3. Review existing project documentation in `/ai-specs/specs` to understand technical standards, data model, and architecture.
-4. Decompose the PRD into Epics and User Stories following the INVEST principle.
+4. If the `ai-specs/diagrams/` folder exists, read all diagram files to enrich context:
+   - `use-cases.md` — Extract actors, use cases, and their relationships to map stories to use cases accurately
+   - `sequence-diagrams.md` — Use interaction flows to inform technical notes and acceptance criteria
+   - `c4-architecture.md` — Understand system boundaries, containers, and components for technical context
+   - `entity-relationship.md` — Reference data entities and relationships for data-related stories
+   - `lean-canvas.md` — Align backlog priorities with business model and value proposition
+5. Decompose the PRD into Epics and User Stories following the INVEST principle.
 5. For each User Story:
    - Assign a sequential ID: US-001, US-002, etc.
    - Write in standard format: `As a [persona], I want to [action], so that [benefit]`

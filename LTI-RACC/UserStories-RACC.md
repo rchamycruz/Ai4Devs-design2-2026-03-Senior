@@ -8,3 +8,6 @@ Analiza la carpeta .commands, crea un nuevo comando llamado "create-backlog-plan
 Al create-baclog-plan.md agregale que debe indicar criterio de aceptacón en base a Behavior-Driven Development y Estima el esfuerzo de los tickets de trabajo usando la metodología (fibonacci, poker, tallas de camiseta) y unidades.
 
 También que en cada User Story creada agregue el Caso de uso al que corresponde, y de ser posible, con su diagrama.
+
+
+Analiza la carpeta .commands, crea un nuevo comando llamado "create-diagrams.md" para crear una carpeta llamada "diagrams" y dentro de ella crear diagramas de secuencia, de casos de uso, de lean canvas, C4, entidad relación en archivos separados. También crea un agente que sea experto para cada uno de los casos. El comando "update-docs" tambien debe actualizar los diagramas y cualquier otro archivo .md que tenga relación con el proyecto

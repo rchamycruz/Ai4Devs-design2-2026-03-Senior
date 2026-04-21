@@ -28,7 +28,13 @@ Before running this command, ensure:
 
 1. Read `ai-specs/backlog/backlog.md` to get the full backlog structure (Epics, story order, dependencies, release phases).
 2. Read all `ai-specs/backlog/us-*.md` files to get individual User Story details.
-3. Validate that all stories referenced in `backlog.md` have corresponding `us-XXX.md` files. Report any missing files and stop if critical stories are missing.
+3. If the `ai-specs/diagrams/` folder exists, read diagram files to enrich the items pushed to the platform:
+   - `use-cases.md` — Attach use case references to each story's description
+   - `sequence-diagrams.md` — Include relevant sequence diagram snippets in story descriptions for developer context
+   - `entity-relationship.md` — Reference affected entities in story descriptions
+   - `c4-architecture.md` — Add architecture context to Epic descriptions
+   - `lean-canvas.md` — Include business context in Epic descriptions
+4. Validate that all stories referenced in `backlog.md` have corresponding `us-XXX.md` files. Report any missing files and stop if critical stories are missing.
 4. Confirm with the user before creating items on the remote platform — show a summary of what will be created (number of Epics, number of Stories, target platform).
 
 ## If target is `jira`:
