@@ -17,3 +17,12 @@ Tanto create-backlog-plan como push-backlog-plan deben considerar leer los diagr
 Genera tickets de trabajo (sub task) para la Historia de Usuario US-001 en Github.
 
 A la Sub task [US-001][BE][DB] #22 de la historia de Usuario US-001 en Github Estima el esfuerzo usando la metodología (fibonacci, poker, tallas de camiseta) y unidades.
+
+Añade al archivo UserStories-RACC.md un consolidado con: 
+- Prompts utlizados en esta sesión. 
+- Estructura de carpetas del Backlog completo, incluyendo el readme.md y sus archivos y contenido, ordenado. 
+- Los .commands creados y una descripción breve de su uso
+- los .agents creados y una descripción breve de su uso
+- Los diagramas creados, con título y contenido, y una breve descripción de cada uno.
+- Dos épicas, dos historias de usuario (#12 y #22) y 2 sub task de la historia de usuario #22,  del proyecto de Github al que estás conectado, con su contenido. 
+
