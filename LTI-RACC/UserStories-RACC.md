@@ -442,3 +442,11 @@ class AIGatewayService {
 - [ ] Timeout throws `AIServiceUnavailableError`
 - [ ] 5xx from AI Service also throws `AIServiceUnavailableError`
 - [ ] Unit tests with mocked HTTP (nock or msw)
+
+---
+
+## 7. Plan de prueba de integración para US-001
+
+La especificación detallada del test de integración para el flujo completo de generación de descripción → guardado de borrador → notificación está documentada en:
+
+- `LTI-RACC/docs/us-001-job-creation-integration-test-plan.md`
