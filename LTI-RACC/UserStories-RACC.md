@@ -445,8 +445,8 @@ class AIGatewayService {
 
 ---
 
-## 7. Integration Test Plan for US-001
+## 7. Plan de prueba de integración para US-001
 
-The detailed integration test specification for the full generate-description → save draft → notification flow is documented in:
+La especificación detallada del test de integración para el flujo completo de generación de descripción → guardado de borrador → notificación está documentada en:
 
 - `LTI-RACC/docs/us-001-job-creation-integration-test-plan.md`
